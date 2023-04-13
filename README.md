@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habit Tracker é um aplicativo para rastrear habitos diários e auxiliar na programação do seu dia!
 
-- [Visite o projeto online](https://db-freitas.github.io/Habit-Tracker/)
+- [Visite o projeto online](https://db-freitas.github.io/habit_tracker/)
 
 ## 🔖 Layout
 
